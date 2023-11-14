@@ -1,0 +1,6 @@
+Salesforce.com
+Cloud Based technology
+Services :
+SAAS
+PAAS
+IAAS
